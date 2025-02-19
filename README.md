@@ -24,7 +24,7 @@ I’m the founder of BrightFuture IT, where we specialize in Flutter development
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="100" heght="100"/>
   </a>
   <a href="https://apps.apple.com/app/idyourappid">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_(iOS).svg" width="100" heght="100"/>
+    <img src="https://w7.pngwing.com/pngs/270/658/png-transparent-app-store-apple-google-play-apple-text-logo-mobile-phones.png" width="100" heght="100"/>
   </a>
 </p>
 
