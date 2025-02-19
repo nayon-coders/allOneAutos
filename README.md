@@ -17,9 +17,16 @@ I’m the founder of BrightFuture IT, where we specialize in Flutter development
 <p> And more......</p>
 
 ## 📲 Download My App
+## 📲 Download My App
 
-[![Google Play Store](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=your.app.id)
-[![Apple App Store](https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_(iOS).svg)](https://apps.apple.com/app/idyourappid)
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=your.app.id">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="200"/>
+  </a>
+  <a href="https://apps.apple.com/app/idyourappid">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_(iOS).svg" width="200"/>
+  </a>
+</p>
 
 ## 🖼️ Screenshots  
 
